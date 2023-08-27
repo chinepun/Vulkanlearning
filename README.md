@@ -2,4 +2,4 @@
 chinepun/Vulkanlearning
 
 # Pre-requisites
-sudo apt-get install libglfw3 libglfw3-dev libglm-dev glslang-tools
+sudo apt-get install libglfw3 libglfw3-dev libglm-dev glslang-tools libxxf86vm-dev libxi-dev
